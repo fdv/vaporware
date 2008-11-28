@@ -1,0 +1,3 @@
+== Welcome to vaporware ==
+
+Vaporware is a collaborative task manager coupling with a simple wiki. Each task can be associated with a wiki page. Task owner can associate other users to a task. These users are now able to work on the wiki page, which is closed when the task is finished.
